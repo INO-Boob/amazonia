@@ -1,3 +1,5 @@
+# Builds the static site and publishes it to GitHub Pages on every push to main.
+# One-time setup: repo Settings → Pages → Source: "GitHub Actions".
 name: Deploy to GitHub Pages
 
 on:
@@ -27,8 +29,9 @@ jobs:
       - name: Build static site
         env:
           GITHUB_PAGES: "1"
-          NEXT_PUBLIC_BASE_PATH: /amazonia
-          NEXT_PUBLIC_SITE_URL: https://ino-boob.github.io
+          # <user>.github.io repos are served from the root, all others from /<repo>
+          NEXT_PUBLIC_BASE_PATH: ${{ endsWith(github.event.repository.name, '.github.io') && '' || format('/{0}', github.event.repository.name) }}
+          NEXT_PUBLIC_SITE_URL: https://${{ github.repository_owner }}.github.io
         run: npm run build
       - run: touch out/.nojekyll
       - uses: actions/upload-pages-artifact@v3

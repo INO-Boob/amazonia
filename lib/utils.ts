@@ -32,3 +32,9 @@ export function plural(n: number, one: string, few: string, many: string) {
   if (m10 >= 2 && m10 <= 4 && (m100 < 12 || m100 > 14)) return few;
   return many;
 }
+
+/** Base path for static hosting under a sub-path (GitHub Pages: /<repo>). */
+export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
+/** Prefix a /public file path with the base path. */
+export const asset = (path: string) => `${BASE_PATH}${path}`;

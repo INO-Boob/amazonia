@@ -1,4 +1,5 @@
 import raw from "./photos.json";
+import { asset } from "@/lib/utils";
 
 /**
  * Every photograph on the site is a real, CC-licensed observation from
@@ -23,7 +24,9 @@ export interface Photo {
   region: string;
 }
 
-export const photos = raw as Record<string, Photo>;
+export const photos = Object.fromEntries(
+  Object.entries(raw).map(([k, p]) => [k, { ...p, src: asset(p.src) }]),
+) as Record<string, Photo>;
 export type PhotoKey = keyof typeof raw;
 
 export function photo(key: PhotoKey): Photo {

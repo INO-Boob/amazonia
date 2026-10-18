@@ -7,9 +7,9 @@ import { gsap, ScrollTrigger, SplitText, useGSAP } from "@/lib/gsap";
 import { useQualityTier, useSettings } from "@/lib/settings";
 import { LazyForest } from "@/components/three/lazy";
 import { scrollToId } from "@/components/motion/smooth-scroll";
-import { cn } from "@/lib/utils";
+import { asset, cn } from "@/lib/utils";
 
-const POSTER = "/assets/posters/hero-forest.jpg";
+const POSTER = asset("/assets/posters/hero-forest.jpg");
 
 /**
  * CINEMATIC JUNGLE — full-screen WebGL rainforest with a static poster

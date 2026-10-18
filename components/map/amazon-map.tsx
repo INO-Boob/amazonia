@@ -10,10 +10,10 @@ import { places, zones, type MapZone } from "@/data/zones";
 import { animals, type ZoneId } from "@/data/animals";
 import { photo } from "@/data/photos";
 import { useSettings } from "@/lib/settings";
-import { cn } from "@/lib/utils";
+import { asset, cn } from "@/lib/utils";
 
-const GEO = "/assets/geo";
-maplibregl.setWorkerUrl("/vendor/maplibre-gl-worker.mjs");
+const GEO = asset("/assets/geo");
+maplibregl.setWorkerUrl(asset("/vendor/maplibre-gl-worker.mjs"));
 const RIVER_COLOR: ExpressionSpecification = ["match", ["get", "water"], "white", "#d9c79c", "black", "#b9763f", "clear", "#5ea89d", "#4f6b5c"];
 const ZONE_COLOR: ExpressionSpecification = ["match", ["get", "kind"], "white", "#cfb57c", "black", "#a8653a", "clear", "#5ea89d", "#888"];
 const REGION_COLOR: ExpressionSpecification = [

@@ -3,6 +3,7 @@
 import { useEffect, useRef } from "react";
 import { create } from "zustand";
 import { useSettings } from "@/lib/settings";
+import { asset } from "@/lib/utils";
 
 export type SoundScene = "day" | "water" | "night";
 
@@ -77,7 +78,7 @@ export function SoundEngine() {
           LAYERS.map(async (l) => {
             buffers.current[l.id] = await Promise.all(
               l.files.map(async (f) => {
-                const res = await fetch(`/assets/audio/${f}.mp3`);
+                const res = await fetch(asset(`/assets/audio/${f}.mp3`));
                 return ctx.decodeAudioData(await res.arrayBuffer());
               }),
             );

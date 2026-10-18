@@ -10,6 +10,17 @@ npm run dev      # http://localhost:3000
 npm run build && npm start
 ```
 
+## Публикация на GitHub Pages
+
+1. Загрузите проект в репозиторий GitHub (ветка `main`).
+2. В репозитории: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+3. Готово — workflow `.github/workflows/deploy.yml` соберёт статическую версию
+   (`GITHUB_PAGES=1`) и опубликует её по адресу `https://<логин>.github.io/<репозиторий>/`.
+   Каждый следующий push в `main` обновляет сайт.
+
+Локальная проверка статической сборки:
+`GITHUB_PAGES=1 NEXT_PUBLIC_BASE_PATH=/amazonia npm run build` → папка `out/`.
+
 ## Стек и зачем каждая зависимость
 
 | Пакет | Задача |

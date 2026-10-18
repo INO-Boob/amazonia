@@ -5,7 +5,7 @@ import * as THREE from "three";
 import { useFrame, useLoader, useThree } from "@react-three/fiber";
 import { mergeGeometries } from "three/examples/jsm/utils/BufferGeometryUtils.js";
 import { SceneCanvas } from "../scene-canvas";
-import { mulberry32 } from "@/lib/utils";
+import { asset, mulberry32 } from "@/lib/utils";
 import type { QualityTier } from "@/lib/settings";
 
 const WATER = new THREE.Color("#163a34");
@@ -20,7 +20,7 @@ interface Props {
 
 /** Surface seen from below: animated normals, bright Snell's window. */
 function Surface({ animate }: { animate: boolean }) {
-  const normals = useLoader(THREE.TextureLoader, "/assets/textures/waternormals.jpg");
+  const normals = useLoader(THREE.TextureLoader, asset("/assets/textures/waternormals.jpg"));
   normals.wrapS = normals.wrapT = THREE.RepeatWrapping;
   const mat = useMemo(
     () =>

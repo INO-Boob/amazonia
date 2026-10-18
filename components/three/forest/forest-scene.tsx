@@ -6,7 +6,9 @@ import { useFrame, useThree } from "@react-three/fiber";
 import { useGLTF } from "@react-three/drei";
 import { mergeGeometries } from "three/examples/jsm/utils/BufferGeometryUtils.js";
 import { clone as cloneSkinned } from "three/examples/jsm/utils/SkeletonUtils.js";
-import { mulberry32 } from "@/lib/utils";
+import { asset, mulberry32 } from "@/lib/utils";
+
+const PARROT = asset("/assets/models/Parrot.glb");
 import type { QualityTier } from "@/lib/settings";
 import { createBarkTexture, createGroundTexture, createLeafAtlas } from "./textures";
 
@@ -504,7 +506,7 @@ function Mist({ animate }: { animate: boolean }) {
 
 /* ── Distant parrots crossing the clearing (high tier only) ─────────── */
 function Birds({ count, animate }: { count: number; animate: boolean }) {
-  const gltf = useGLTF("/assets/models/Parrot.glb");
+  const gltf = useGLTF(PARROT);
   const birds = useMemo(() => {
     return Array.from({ length: count }, (_, i) => {
       const obj = cloneSkinned(gltf.scene);
@@ -638,4 +640,4 @@ export function ForestScene({ tier, progress, pointer, animate, onReady }: Fores
   );
 }
 
-useGLTF.preload("/assets/models/Parrot.glb");
+useGLTF.preload(PARROT);
