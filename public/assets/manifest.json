@@ -1,0 +1,1287 @@
+{
+ "generated": "2026-10-18",
+ "note": "All files are stored locally under /public. Photos: iNaturalist Open Data (CC licences, no ND).",
+ "photos": [
+  {
+   "file": "/assets/animals/ameerega-1.jpg",
+   "kind": "photo",
+   "taxon": "Ameerega trivittata",
+   "author": "Rich Hoyer",
+   "license": "CC-BY-NC-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+   "source": "https://www.inaturalist.org/photos/179747110",
+   "observation": "https://www.inaturalist.org/observations/0e6fcd38-7676-4c73-86ca-b440c940adf6",
+   "location": {
+    "lat": -12.6,
+    "lon": -70.1,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2022-01-29",
+   "key": "ameerega-1"
+  },
+  {
+   "file": "/assets/animals/anaconda-1.jpg",
+   "kind": "photo",
+   "taxon": "Eunectes murinus",
+   "author": "Franciele",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/79984621",
+   "observation": "https://www.inaturalist.org/observations/4979d767-43dd-468d-8ad4-bfc07264f295",
+   "location": {
+    "lat": -3.1,
+    "lon": -60,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2011-12-21",
+   "key": "anaconda-1"
+  },
+  {
+   "file": "/assets/animals/anaconda-2.jpg",
+   "kind": "photo",
+   "taxon": "Eunectes murinus",
+   "author": "Santiago Sierra-Paz",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/182071871",
+   "observation": "https://www.inaturalist.org/observations/f9069423-ce4a-4432-aaec-f28c8df3a547",
+   "location": {
+    "lat": -3.8,
+    "lon": -70.3,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2022-02-28",
+   "key": "anaconda-2"
+  },
+  {
+   "file": "/assets/animals/aotus-1.jpg",
+   "kind": "photo",
+   "taxon": "Aotus vociferans",
+   "author": "Jefferson Shank",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/180769335",
+   "observation": "https://www.inaturalist.org/observations/476823b1-14a2-4ab0-9e22-e525d00d00cb",
+   "location": {
+    "lat": -3.9,
+    "lon": -70.3,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2021-08-11",
+   "key": "aotus-1"
+  },
+  {
+   "file": "/assets/animals/aotus-2.jpg",
+   "kind": "photo",
+   "taxon": "Aotus vociferans",
+   "author": "Bill Hagan",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/66377629",
+   "observation": "https://www.inaturalist.org/observations/68ce25ed-cd22-4e90-b2b2-59c51acba5c4",
+   "location": {
+    "lat": -0.5,
+    "lon": -76.4,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2018-05-26",
+   "key": "aotus-2"
+  },
+  {
+   "file": "/assets/animals/aracari-1.jpg",
+   "kind": "photo",
+   "taxon": "Pteroglossus castanotis",
+   "author": "Paul Bedell",
+   "license": "CC-BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://www.inaturalist.org/photos/181848626",
+   "observation": "https://www.inaturalist.org/observations/84ea318a-57d1-4a95-a816-67babdf1a861",
+   "location": {
+    "lat": -0.6,
+    "lon": -77.3,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2022-02-14",
+   "key": "aracari-1"
+  },
+  {
+   "file": "/assets/animals/arapaima-1.jpg",
+   "kind": "photo",
+   "taxon": "Arapaima gigas",
+   "author": "Jonathan Newman",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/235694824",
+   "observation": "https://www.inaturalist.org/observations/cf8cc8dc-a426-4283-b334-d94b51b21bd2",
+   "location": {
+    "lat": -13.5,
+    "lon": -56.6,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2022-09-21",
+   "key": "arapaima-1"
+  },
+  {
+   "file": "/assets/animals/arapaima-2.jpg",
+   "kind": "photo",
+   "taxon": "Arapaima gigas",
+   "author": "Ruben D. Layme",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/59559598",
+   "observation": "https://www.inaturalist.org/observations/824e439e-eb10-455d-b158-08fcca4a6fe7",
+   "location": {
+    "lat": -11.1,
+    "lon": -66.2,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2020-01-10",
+   "key": "arapaima-2"
+  },
+  {
+   "file": "/assets/animals/atta-1.jpg",
+   "kind": "photo",
+   "taxon": "Atta cephalotes",
+   "author": "osoandino",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/51995898",
+   "observation": "https://www.inaturalist.org/observations/ab6a41bc-5dab-4742-ae7c-0504008153fe",
+   "location": {
+    "lat": -1,
+    "lon": -77.7,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2006-12-26",
+   "key": "atta-1"
+  },
+  {
+   "file": "/assets/animals/boto-1.jpg",
+   "kind": "photo",
+   "taxon": "Inia geoffrensis",
+   "author": "Paul Hoekman",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/219002296",
+   "observation": "https://www.inaturalist.org/observations/f1330a5f-eea6-4f0f-9d78-a336be02ca8c",
+   "location": {
+    "lat": -3.7,
+    "lon": -70.4,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2022-06-10",
+   "key": "boto-1"
+  },
+  {
+   "file": "/assets/animals/boto-2.jpg",
+   "kind": "photo",
+   "taxon": "Inia geoffrensis",
+   "author": "Erick Alexander Pinilla",
+   "license": "CC-BY-NC-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+   "source": "https://www.inaturalist.org/photos/4928431",
+   "observation": "https://www.inaturalist.org/observations/6c9b95e6-d936-47a2-9d4a-eafe32edf281",
+   "location": {
+    "lat": -3.9,
+    "lon": -70.5,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2010-07-05",
+   "key": "boto-2"
+  },
+  {
+   "file": "/assets/animals/caiman-1.jpg",
+   "kind": "photo",
+   "taxon": "Melanosuchus niger",
+   "author": "Julien Rouard - Dreamtime Nature Photography",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/97785303",
+   "observation": "https://www.inaturalist.org/observations/3ecefbd0-6c80-47bd-bb67-7983e090462e",
+   "location": {
+    "lat": -13,
+    "lon": -69.3,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2013-07-27",
+   "key": "caiman-1"
+  },
+  {
+   "file": "/assets/animals/caiman-2.jpg",
+   "kind": "photo",
+   "taxon": "Melanosuchus niger",
+   "author": "William Stephens",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/64423750",
+   "observation": "https://www.inaturalist.org/observations/52de921b-a9d8-4b93-89a3-7294aa1da10a",
+   "location": {
+    "lat": -12.6,
+    "lon": -68.9,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2010-04-27",
+   "key": "caiman-2"
+  },
+  {
+   "file": "/assets/animals/capybara-1.jpg",
+   "kind": "photo",
+   "taxon": "Hydrochoerus hydrochaeris",
+   "author": "Vincent A. Vos",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/11223204",
+   "observation": "https://www.inaturalist.org/observations/76aecfc3-f5eb-40a6-83c5-77c52b9dd9e7",
+   "location": {
+    "lat": -14.8,
+    "lon": -64.9,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2017-10-03",
+   "key": "capybara-1"
+  },
+  {
+   "file": "/assets/animals/capybara-2.jpg",
+   "kind": "photo",
+   "taxon": "Hydrochoerus hydrochaeris",
+   "author": "Alessandher Piva",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/177235846",
+   "observation": "https://www.inaturalist.org/observations/ae5af24c-d081-432d-b5d6-af3d148372e9",
+   "location": {
+    "lat": -9.9,
+    "lon": -63,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2014-12-10",
+   "key": "capybara-2"
+  },
+  {
+   "file": "/assets/environments/cecropia-1.jpg",
+   "kind": "photo",
+   "taxon": "Cecropia sciadophylla",
+   "author": "Thomas Wrbka",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/235869113",
+   "observation": "https://www.inaturalist.org/observations/eee887b6-cfe3-4652-83d6-9bec062a5962",
+   "location": {
+    "lat": -12.8,
+    "lon": -69.3,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2016-07-29",
+   "key": "cecropia-1"
+  },
+  {
+   "file": "/assets/environments/ceiba-1.jpg",
+   "kind": "photo",
+   "taxon": "Ceiba pentandra",
+   "author": "mhearell",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/52285060",
+   "observation": "https://www.inaturalist.org/observations/c01fd8ce-843c-443b-9ff9-2ca86e4d8a6e",
+   "location": {
+    "lat": 0,
+    "lon": -76.3,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2018-06-01",
+   "key": "ceiba-1"
+  },
+  {
+   "file": "/assets/environments/ceiba-2.jpg",
+   "kind": "photo",
+   "taxon": "Ceiba pentandra",
+   "author": "Matthew Moskwik",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/102656713",
+   "observation": "https://www.inaturalist.org/observations/5ede32d6-57c3-44e4-965d-4a95c9f0f4bd",
+   "location": {
+    "lat": -0.5,
+    "lon": -76.4,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2008-07-08",
+   "key": "ceiba-2"
+  },
+  {
+   "file": "/assets/environments/ceiba-3.jpg",
+   "kind": "photo",
+   "taxon": "Ceiba pentandra",
+   "author": "David Torres",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/66848836",
+   "observation": "https://www.inaturalist.org/observations/10a9dcf8-e18a-4275-b053-b2d5070a4f4f",
+   "location": {
+    "lat": 0,
+    "lon": -76.2,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2011-08-13",
+   "key": "ceiba-3"
+  },
+  {
+   "file": "/assets/animals/corallus-1.jpg",
+   "kind": "photo",
+   "taxon": "Corallus hortulana",
+   "author": "Lennart Hudel",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/186910826",
+   "observation": "https://www.inaturalist.org/observations/78ede8b7-cde0-46d2-a5cb-65a60d635c57",
+   "location": {
+    "lat": 4,
+    "lon": -55.5,
+    "region": "GUIANA SHIELD"
+   },
+   "observedOn": "2022-03-09",
+   "key": "corallus-1"
+  },
+  {
+   "file": "/assets/animals/dendro-1.jpg",
+   "kind": "photo",
+   "taxon": "Dendrobates tinctorius",
+   "author": "Xavier Rufray",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/103507728",
+   "observation": "https://www.inaturalist.org/observations/9b09bee0-2449-4310-b77b-8e1fd66e73d4",
+   "location": {
+    "lat": 4.5,
+    "lon": -52,
+    "region": "Amazonia (approx.)"
+   },
+   "observedOn": "2015-03-24",
+   "key": "dendro-1"
+  },
+  {
+   "file": "/assets/animals/dendro-2.jpg",
+   "kind": "photo",
+   "taxon": "Dendrobates tinctorius",
+   "author": "Sébastien SANT",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/169221204",
+   "observation": "https://www.inaturalist.org/observations/35b3c1c9-1ea0-4713-ac6f-4115a8c76fc4",
+   "location": {
+    "lat": 4.5,
+    "lon": -52.2,
+    "region": "GUIANA SHIELD"
+   },
+   "observedOn": "2015-06-18",
+   "key": "dendro-2"
+  },
+  {
+   "file": "/assets/animals/eel-1.jpg",
+   "kind": "photo",
+   "taxon": "Electrophorus varii",
+   "author": "Anthony Giardenelli",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/14153293",
+   "observation": "https://www.inaturalist.org/observations/3437f0d7-4a35-4740-9694-88710c827092",
+   "location": {
+    "lat": -3.5,
+    "lon": -72.5,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2017-06-10",
+   "key": "eel-1"
+  },
+  {
+   "file": "/assets/environments/euterpe-1.jpg",
+   "kind": "photo",
+   "taxon": "Euterpe precatoria",
+   "author": "Jens-Christian Svenning",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/74372547",
+   "observation": "https://www.inaturalist.org/observations/fbc8466a-ca72-4c13-8027-914063585618",
+   "location": {
+    "lat": 0,
+    "lon": -76.2,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2015-07-15",
+   "key": "euterpe-1"
+  },
+  {
+   "file": "/assets/environments/euterpe-2.jpg",
+   "kind": "photo",
+   "taxon": "Euterpe precatoria",
+   "author": "jorgebrito",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/152700095",
+   "observation": "https://www.inaturalist.org/observations/d4a64ff4-5f7f-4943-a183-5493a7f34afe",
+   "location": {
+    "lat": 0,
+    "lon": -76.2,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2021-08-08",
+   "key": "euterpe-2"
+  },
+  {
+   "file": "/assets/animals/fulgora-1.jpg",
+   "kind": "photo",
+   "taxon": "Fulgora laternaria",
+   "author": "Alan Rockefeller",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/61813216",
+   "observation": "https://www.inaturalist.org/observations/1ce2ad24-c892-4a94-9859-312176cd1a68",
+   "location": {
+    "lat": -1.6,
+    "lon": -77.8,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2020-02-14",
+   "key": "fulgora-1"
+  },
+  {
+   "file": "/assets/animals/fulgora-2.jpg",
+   "kind": "photo",
+   "taxon": "Fulgora laternaria",
+   "author": "Sébastien SANT",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/124516394",
+   "observation": "https://www.inaturalist.org/observations/9c12b8b9-5b45-4263-8f58-2dd020b4b367",
+   "location": {
+    "lat": 3.6,
+    "lon": -53.2,
+    "region": "GUIANA SHIELD"
+   },
+   "observedOn": "2018-06-19",
+   "key": "fulgora-2"
+  },
+  {
+   "file": "/assets/animals/harpy-1.jpg",
+   "kind": "photo",
+   "taxon": "Harpia harpyja",
+   "author": "Ulises Balza",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/45320221",
+   "observation": "https://www.inaturalist.org/observations/17e815eb-71f4-44f2-8ea8-4a3d0e7f1009",
+   "location": {
+    "lat": -1,
+    "lon": -75.4,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2016-02-02",
+   "key": "harpy-1"
+  },
+  {
+   "file": "/assets/animals/harpy-2.jpg",
+   "kind": "photo",
+   "taxon": "Harpia harpyja",
+   "author": "Sébastien SANT",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/73728161",
+   "observation": "https://www.inaturalist.org/observations/f9568bf7-4aea-4461-81d4-e75e69ff4dd8",
+   "location": {
+    "lat": 4.8,
+    "lon": -52.3,
+    "region": "GUIANA SHIELD"
+   },
+   "observedOn": "2020-05-12",
+   "key": "harpy-2"
+  },
+  {
+   "file": "/assets/animals/hoatzin-1.jpg",
+   "kind": "photo",
+   "taxon": "Opisthocomus hoazin",
+   "author": "Vincent A. Vos",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/127990061",
+   "observation": "https://www.inaturalist.org/observations/27a6bc63-07a3-4acb-86a1-7e8d2c8ba245",
+   "location": {
+    "lat": -10.9,
+    "lon": -66,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2021-05-08",
+   "key": "hoatzin-1"
+  },
+  {
+   "file": "/assets/animals/hoatzin-2.jpg",
+   "kind": "photo",
+   "taxon": "Opisthocomus hoazin",
+   "author": "Annika Lindqvist",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/17557097",
+   "observation": "https://www.inaturalist.org/observations/ef241b09-6ca8-48bd-900b-dee6e3cc0787",
+   "location": {
+    "lat": -12.6,
+    "lon": -69,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2018-04-20",
+   "key": "hoatzin-2"
+  },
+  {
+   "file": "/assets/animals/howler-1.jpg",
+   "kind": "photo",
+   "taxon": "Alouatta seniculus",
+   "author": "pfaucher",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/45232094",
+   "observation": "https://www.inaturalist.org/observations/1c8cd555-21ea-4e7a-8141-00376769ec17",
+   "location": {
+    "lat": -12.3,
+    "lon": -70.7,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2019-07-12",
+   "key": "howler-1"
+  },
+  {
+   "file": "/assets/animals/howler-2.jpg",
+   "kind": "photo",
+   "taxon": "Alouatta seniculus",
+   "author": "zacsf",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/52645138",
+   "observation": "https://www.inaturalist.org/observations/32c113f9-1bf9-4615-aba8-c37571142037",
+   "location": {
+    "lat": -12.7,
+    "lon": -71.2,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2019-09-13",
+   "key": "howler-2"
+  },
+  {
+   "file": "/assets/environments/iriartea-1.jpg",
+   "kind": "photo",
+   "taxon": "Iriartea deltoidea",
+   "author": "Michael A. Alcorn",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/13575127",
+   "observation": "https://www.inaturalist.org/observations/389e85db-1cfb-47e6-abb3-523cbb3d7075",
+   "location": {
+    "lat": -13,
+    "lon": -71.5,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2018-01-18",
+   "key": "iriartea-1"
+  },
+  {
+   "file": "/assets/environments/iriartea-2.jpg",
+   "kind": "photo",
+   "taxon": "Iriartea deltoidea",
+   "author": "Juan Francisco Herrera Cueva",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/101637943",
+   "observation": "https://www.inaturalist.org/observations/8757b1bf-7d50-4ae9-8896-a6bd91624325",
+   "location": {
+    "lat": -0.8,
+    "lon": -77.6,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2020-10-09",
+   "key": "iriartea-2"
+  },
+  {
+   "file": "/assets/environments/iriartea-3.jpg",
+   "kind": "photo",
+   "taxon": "Iriartea deltoidea",
+   "author": "Jens-Christian Svenning",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/74374323",
+   "observation": "https://www.inaturalist.org/observations/4b4df50a-d13f-4e30-874a-f2c3eb4a75de",
+   "location": {
+    "lat": -0.1,
+    "lon": -76.2,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2015-07-15",
+   "key": "iriartea-3"
+  },
+  {
+   "file": "/assets/environments/iriartea-4.jpg",
+   "kind": "photo",
+   "taxon": "Iriartea deltoidea",
+   "author": "avocat",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/2183583",
+   "observation": "https://www.inaturalist.org/observations/d5a1d8d0-aa8e-4fe3-9340-ac763a9f35b0",
+   "location": {
+    "lat": -12.9,
+    "lon": -69.3,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2015-06-29",
+   "key": "iriartea-4"
+  },
+  {
+   "file": "/assets/animals/jaguar-1.jpg",
+   "kind": "photo",
+   "taxon": "Panthera onca",
+   "author": "Kayla Rench",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/12525837",
+   "observation": "https://www.inaturalist.org/observations/ad3f00d8-0905-4d29-9407-328a4e1172f3",
+   "location": {
+    "lat": -13.1,
+    "lon": -69.7,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2017-12-22",
+   "key": "jaguar-1"
+  },
+  {
+   "file": "/assets/animals/jaguar-2.jpg",
+   "kind": "photo",
+   "taxon": "Panthera onca",
+   "author": "Anderson Sandro",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/106556899",
+   "observation": "https://www.inaturalist.org/observations/3831a7e3-164f-4605-95cb-6efb5ed7fc0a",
+   "location": {
+    "lat": -6.1,
+    "lon": -50.2,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2020-02-22",
+   "key": "jaguar-2"
+  },
+  {
+   "file": "/assets/animals/jaguar-3.jpg",
+   "kind": "photo",
+   "taxon": "Panthera onca",
+   "author": "Dominick Porcelli",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/101952613",
+   "observation": "https://www.inaturalist.org/observations/7849ee3d-cda6-41ec-bafc-4da9ed78fbdc",
+   "location": {
+    "lat": -12.8,
+    "lon": -63.2,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2012-09-17",
+   "key": "jaguar-3"
+  },
+  {
+   "file": "/assets/animals/jaguar-4.jpg",
+   "kind": "photo",
+   "taxon": "Panthera onca",
+   "author": "edhession",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/8170504",
+   "observation": "https://www.inaturalist.org/observations/1f2ce5ff-5a02-4ffc-b197-84c5b209c5d0",
+   "location": {
+    "lat": -12.8,
+    "lon": -69.4,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2017-04-20",
+   "key": "jaguar-4"
+  },
+  {
+   "file": "/assets/animals/kinkajou-2.jpg",
+   "kind": "photo",
+   "taxon": "Potos flavus",
+   "author": "Eric Carpenter",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/43625823",
+   "observation": "https://www.inaturalist.org/observations/e4d1c9a2-9c22-42cd-9e4a-3490279991f9",
+   "location": {
+    "lat": -0.6,
+    "lon": -77.9,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2019-02-25",
+   "key": "kinkajou-2"
+  },
+  {
+   "file": "/assets/animals/macao-1.jpg",
+   "kind": "photo",
+   "taxon": "Ara macao",
+   "author": "Erin McKittrick",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/17614316",
+   "observation": "https://www.inaturalist.org/observations/123925c2-25dd-4e53-94bf-437a2f1c2336",
+   "location": {
+    "lat": -12.9,
+    "lon": -69.6,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2018-01-05",
+   "key": "macao-1"
+  },
+  {
+   "file": "/assets/animals/macao-2.jpg",
+   "kind": "photo",
+   "taxon": "Ara macao",
+   "author": "Kyle Van Houtan",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/217550571",
+   "observation": "https://www.inaturalist.org/observations/0dc922fe-2c28-4dfb-afd7-d2de507c474a",
+   "location": {
+    "lat": -13.2,
+    "lon": -69.7,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "1999-08-11",
+   "key": "macao-2"
+  },
+  {
+   "file": "/assets/animals/macao-3.jpg",
+   "kind": "photo",
+   "taxon": "Ara macao",
+   "author": "Dan Riskin",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/62660373",
+   "observation": "https://www.inaturalist.org/observations/29bad5a5-1fdc-463f-9e83-c82d480be4a0",
+   "location": {
+    "lat": -5.1,
+    "lon": -74.1,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2020-02-25",
+   "key": "macao-3"
+  },
+  {
+   "file": "/assets/environments/mauritia-1.jpg",
+   "kind": "photo",
+   "taxon": "Mauritia flexuosa",
+   "author": "Annika Lindqvist",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/17556928",
+   "observation": "https://www.inaturalist.org/observations/87517d95-164e-4d34-8e24-57889f304df7",
+   "location": {
+    "lat": -12.6,
+    "lon": -69,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2018-04-20",
+   "key": "mauritia-1"
+  },
+  {
+   "file": "/assets/environments/mauritia-2.jpg",
+   "kind": "photo",
+   "taxon": "Mauritia flexuosa",
+   "author": "Tony Rebelo",
+   "license": "CC-BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://www.inaturalist.org/photos/31083262",
+   "observation": "https://www.inaturalist.org/observations/a8b9eb36-781b-48b1-8c1f-cb7c80e4be00",
+   "location": {
+    "lat": -12.6,
+    "lon": -69,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2014-10-01",
+   "key": "mauritia-2"
+  },
+  {
+   "file": "/assets/environments/mauritia-3.jpg",
+   "kind": "photo",
+   "taxon": "Mauritia flexuosa",
+   "author": "Nick Helme",
+   "license": "CC-BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://www.inaturalist.org/photos/184473525",
+   "observation": "https://www.inaturalist.org/observations/ec47f125-ecd3-4a5f-833c-52b84baea1d0",
+   "location": {
+    "lat": -13,
+    "lon": -68.8,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "1995-08-16",
+   "key": "mauritia-3"
+  },
+  {
+   "file": "/assets/animals/morpho-1.jpg",
+   "kind": "photo",
+   "taxon": "Morpho helenor",
+   "author": "Kathrin",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/35600308",
+   "observation": "https://www.inaturalist.org/observations/c1542093-11b6-439f-b27d-0286f0af2a36",
+   "location": {
+    "lat": -14.2,
+    "lon": -67.9,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2011-10-19",
+   "key": "morpho-1"
+  },
+  {
+   "file": "/assets/animals/morpho-2.jpg",
+   "kind": "photo",
+   "taxon": "Morpho helenor",
+   "author": "Gabriel Leite",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/35784293",
+   "observation": "https://www.inaturalist.org/observations/97b14ce5-e160-49ac-9653-19d95d876333",
+   "location": {
+    "lat": -6.1,
+    "lon": -50.2,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2019-04-24",
+   "key": "morpho-2"
+  },
+  {
+   "file": "/assets/animals/otter-1.jpg",
+   "kind": "photo",
+   "taxon": "Pteronura brasiliensis",
+   "author": "David F. Belmonte",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/102935812",
+   "observation": "https://www.inaturalist.org/observations/094cc935-1f08-49b1-9926-49588e9407d4",
+   "location": {
+    "lat": -12.7,
+    "lon": -69.1,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2019-02-11",
+   "key": "otter-1"
+  },
+  {
+   "file": "/assets/animals/otter-2.jpg",
+   "kind": "photo",
+   "taxon": "Pteronura brasiliensis",
+   "author": "melianie_max_and_asker",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/10724811",
+   "observation": "https://www.inaturalist.org/observations/a9704ff7-45e9-4a60-8145-3596542a9c10",
+   "location": {
+    "lat": -0.6,
+    "lon": -76.6,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2017-09-18",
+   "key": "otter-2"
+  },
+  {
+   "file": "/assets/animals/piranha-1.jpg",
+   "kind": "photo",
+   "taxon": "Pygocentrus nattereri",
+   "author": "Lukas Mohr",
+   "license": "CC-BY-NC-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+   "source": "https://www.inaturalist.org/photos/39637424",
+   "observation": "https://www.inaturalist.org/observations/ae93b124-9938-4a43-b1bb-d89a1ac65643",
+   "location": {
+    "lat": -14.2,
+    "lon": -66.9,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2019-05-12",
+   "key": "piranha-1"
+  },
+  {
+   "file": "/assets/animals/piranha-2.jpg",
+   "kind": "photo",
+   "taxon": "Pygocentrus nattereri",
+   "author": "Pedro Ferreira Bisneto",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/179267418",
+   "observation": "https://www.inaturalist.org/observations/4d290d1a-14ed-4bc8-89c5-eeff5406c6a8",
+   "location": {
+    "lat": -3.2,
+    "lon": -59.6,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2022-02-13",
+   "key": "piranha-2"
+  },
+  {
+   "file": "/assets/animals/potoo-1.jpg",
+   "kind": "photo",
+   "taxon": "Nyctibius griseus",
+   "author": "Tommy Andriollo",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/67735183",
+   "observation": "https://www.inaturalist.org/observations/0d5666d6-dd0a-47ab-a705-3cb6260e06e5",
+   "location": {
+    "lat": 4.5,
+    "lon": -52.1,
+    "region": "GUIANA SHIELD"
+   },
+   "observedOn": "2018-10-02",
+   "key": "potoo-1"
+  },
+  {
+   "file": "/assets/animals/sloth-1.jpg",
+   "kind": "photo",
+   "taxon": "Bradypus variegatus",
+   "author": "Sandra Keller",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/225966844",
+   "observation": "https://www.inaturalist.org/observations/9b50723c-68f6-4a97-9b07-9fc300848187",
+   "location": {
+    "lat": -17.8,
+    "lon": -63.2,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2022-08-14",
+   "key": "sloth-1"
+  },
+  {
+   "file": "/assets/animals/sloth-2.jpg",
+   "kind": "photo",
+   "taxon": "Bradypus variegatus",
+   "author": "mike_steinmann",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/179169520",
+   "observation": "https://www.inaturalist.org/observations/570f3b06-e2a3-42c7-9c71-bc774eadd3ce",
+   "location": {
+    "lat": -17.5,
+    "lon": -63.6,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2017-09-30",
+   "key": "sloth-2"
+  },
+  {
+   "file": "/assets/environments/socratea-1.jpg",
+   "kind": "photo",
+   "taxon": "Socratea exorrhiza",
+   "author": "Guillaume Delaitre",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/168678421",
+   "observation": "https://www.inaturalist.org/observations/8a75f2e8-6958-480c-929f-2847a4f8f1a7",
+   "location": {
+    "lat": 4,
+    "lon": -52.7,
+    "region": "GUIANA SHIELD"
+   },
+   "observedOn": "2021-11-09",
+   "key": "socratea-1"
+  },
+  {
+   "file": "/assets/animals/spider-1.jpg",
+   "kind": "photo",
+   "taxon": "Ateles chamek",
+   "author": "cemango",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/94752756",
+   "observation": "https://www.inaturalist.org/observations/1d0bbb99-1b5a-42f4-bc5a-04959a52d101",
+   "location": {
+    "lat": -3.8,
+    "lon": -73.1,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2020-02-17",
+   "key": "spider-1"
+  },
+  {
+   "file": "/assets/animals/spider-2.jpg",
+   "kind": "photo",
+   "taxon": "Ateles chamek",
+   "author": "pfaucher",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/44390407",
+   "observation": "https://www.inaturalist.org/observations/6acb63f0-d2e0-4fef-b901-c8f397cbf711",
+   "location": {
+    "lat": -12.5,
+    "lon": -70.1,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2019-07-08",
+   "key": "spider-2"
+  },
+  {
+   "file": "/assets/animals/theraphosa-1.jpg",
+   "kind": "photo",
+   "taxon": "Theraphosa blondi",
+   "author": "Vincent Porcher",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/53730329",
+   "observation": "https://www.inaturalist.org/observations/f734c6e9-fe9b-4b3f-bab2-f3f7c6bbe471",
+   "location": {
+    "lat": 4.2,
+    "lon": -52.1,
+    "region": "GUIANA SHIELD"
+   },
+   "observedOn": "2018-08-17",
+   "key": "theraphosa-1"
+  },
+  {
+   "file": "/assets/animals/toucan-1.jpg",
+   "kind": "photo",
+   "taxon": "Ramphastos tucanus",
+   "author": "Vincent A. Vos",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/8269822",
+   "observation": "https://www.inaturalist.org/observations/53d06b26-6780-4db8-a6f0-ce7f8eeda539",
+   "location": {
+    "lat": -11.3,
+    "lon": -66.5,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2016-06-18",
+   "key": "toucan-1"
+  },
+  {
+   "file": "/assets/animals/toucan-2.jpg",
+   "kind": "photo",
+   "taxon": "Ramphastos tucanus",
+   "author": "Paul Hoekman",
+   "license": "CC-BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "source": "https://www.inaturalist.org/photos/219110105",
+   "observation": "https://www.inaturalist.org/observations/5a9343a2-8e3b-4a2d-a22a-7d788fa6eccd",
+   "location": {
+    "lat": -3.8,
+    "lon": -70.3,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2022-06-15",
+   "key": "toucan-2"
+  },
+  {
+   "file": "/assets/animals/tucuxi-1.jpg",
+   "kind": "photo",
+   "taxon": "Sotalia fluviatilis",
+   "author": "forestlab",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/31321184",
+   "observation": "https://www.inaturalist.org/observations/8b6c387a-97fc-4dea-913a-f99ac0240dec",
+   "location": {
+    "lat": -3.8,
+    "lon": -73.2,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2015-01-01",
+   "key": "tucuxi-1"
+  },
+  {
+   "file": "/assets/environments/victoria-1.jpg",
+   "kind": "photo",
+   "taxon": "Victoria amazonica",
+   "author": "Jean-Dominique LEBRETON",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/228846774",
+   "observation": "https://www.inaturalist.org/observations/234be120-75d0-4c8c-a033-130fafa9561d",
+   "location": {
+    "lat": -3.2,
+    "lon": -60,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2018-05-31",
+   "key": "victoria-1"
+  },
+  {
+   "file": "/assets/environments/victoria-2.jpg",
+   "kind": "photo",
+   "taxon": "Victoria amazonica",
+   "author": "Miguel A. Casado",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/176256815",
+   "observation": "https://www.inaturalist.org/observations/297f126e-ea94-4bb9-9f36-83384809005c",
+   "location": {
+    "lat": -3.6,
+    "lon": -60.1,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "1988-08-01",
+   "key": "victoria-2"
+  },
+  {
+   "file": "/assets/environments/victoria-3.jpg",
+   "kind": "photo",
+   "taxon": "Victoria amazonica",
+   "author": "fernanda_santos",
+   "license": "CC-BY-NC",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+   "source": "https://www.inaturalist.org/photos/61207472",
+   "observation": "https://www.inaturalist.org/observations/904ce5c4-12f2-4273-aa5f-a6d84a826fa8",
+   "location": {
+    "lat": -3.4,
+    "lon": -55.1,
+    "region": "AMAZON BASIN"
+   },
+   "observedOn": "2019-12-01",
+   "key": "victoria-3"
+  }
+ ],
+ "other": [
+  {
+   "file": "/assets/audio/birds-daintree-1.mp3",
+   "kind": "audio",
+   "title": "Daintree Rainforrest Birds 1",
+   "author": "digifishmusic (Freesound)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "source": "https://freesound.org/s/38559/",
+   "purpose": "Дневной слой птиц (тропический лес Дейнтри, Австралия). Клип 5 с из ESC-50."
+  },
+  {
+   "file": "/assets/audio/birds-daintree-2.mp3",
+   "kind": "audio",
+   "title": "Daintree Rainforrest Birds 2",
+   "author": "digifishmusic (Freesound)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "source": "https://freesound.org/s/38560/",
+   "purpose": "Дневной слой птиц"
+  },
+  {
+   "file": "/assets/audio/insects-chorus.mp3",
+   "kind": "audio",
+   "title": "Crickets and Other Insects",
+   "author": "kslagerman (Freesound)",
+   "license": "CC0",
+   "licenseUrl": null,
+   "source": "https://freesound.org/s/155766/",
+   "purpose": "Фон насекомых"
+  },
+  {
+   "file": "/assets/audio/crickets-orchestra.mp3",
+   "kind": "audio",
+   "title": "Crickets Orchestra",
+   "author": "Znalac (Freesound)",
+   "license": "CC0",
+   "licenseUrl": null,
+   "source": "https://freesound.org/s/163697/",
+   "purpose": "Ночной фон сверчков"
+  },
+  {
+   "file": "/assets/audio/frog-tropical-garden.mp3",
+   "kind": "audio",
+   "title": "frog in the tropical garden",
+   "author": "E330 (Freesound)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "source": "https://freesound.org/s/102908/",
+   "purpose": "Ночные голоса лягушек"
+  },
+  {
+   "file": "/assets/audio/tree-frog-a.mp3",
+   "kind": "audio",
+   "title": "tree frog (A)",
+   "author": "reinsamba (Freesound)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "source": "https://freesound.org/s/15689/",
+   "purpose": "Ночные голоса лягушек"
+  },
+  {
+   "file": "/assets/audio/tree-frog-b.mp3",
+   "kind": "audio",
+   "title": "tree frog (B)",
+   "author": "reinsamba (Freesound)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "source": "https://freesound.org/s/15689/",
+   "purpose": "Ночные голоса лягушек"
+  },
+  {
+   "file": "/assets/audio/rain-in-woods.mp3",
+   "kind": "audio",
+   "title": "raininwoods",
+   "author": "klangfabrik (Freesound)",
+   "license": "CC0",
+   "licenseUrl": null,
+   "source": "https://freesound.org/s/157149/",
+   "purpose": "Дождь в лесу"
+  },
+  {
+   "file": "/assets/audio/wind-forest.mp3",
+   "kind": "audio",
+   "title": "Wind in small Forrest_01",
+   "author": "TheSoundcatcher (Freesound)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "source": "https://freesound.org/s/136608/",
+   "purpose": "Шелест листвы"
+  },
+  {
+   "file": "/assets/audio/water-drips.mp3",
+   "kind": "audio",
+   "title": "water dripping 1",
+   "author": "hybu (Freesound)",
+   "license": "CC0",
+   "licenseUrl": null,
+   "source": "https://freesound.org/s/139748/",
+   "purpose": "Капли воды"
+  },
+  {
+   "file": "/assets/models/Parrot.glb",
+   "kind": "model",
+   "title": "Parrot (animated)",
+   "author": "Mirada / RO.ME project, via three.js examples",
+   "license": "CC BY-NC-SA 3.0 (ROME content)",
+   "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+   "source": "https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf",
+   "purpose": "Далёкие силуэты птиц в 3D-сцене (только высокое качество). 97 КБ, морф-анимация."
+  },
+  {
+   "file": "/assets/textures/waternormals.jpg",
+   "kind": "texture",
+   "title": "Water normal map",
+   "author": "three.js examples",
+   "license": "MIT (three.js repository)",
+   "licenseUrl": null,
+   "source": "https://github.com/mrdoob/three.js/blob/dev/examples/textures/waternormals.jpg",
+   "purpose": "Поверхность воды снизу в главе «Beneath the Surface»"
+  },
+  {
+   "file": "/assets/geo/*.geojson",
+   "kind": "geo",
+   "title": "Natural Earth 1:10m / 1:50m — regions, rivers, lakes, countries",
+   "author": "Natural Earth",
+   "license": "Public domain",
+   "licenseUrl": null,
+   "source": "https://github.com/nvkelso/natural-earth-vector",
+   "purpose": "Геооснова карты; поймы — схематичные буферы (scripts/build-geo.mjs)"
+  },
+  {
+   "file": "/vendor/maplibre-gl-worker.mjs",
+   "kind": "vendor",
+   "title": "MapLibre GL JS worker",
+   "author": "MapLibre contributors",
+   "license": "BSD-3-Clause",
+   "licenseUrl": null,
+   "source": "https://github.com/maplibre/maplibre-gl-js",
+   "purpose": "Веб-воркер карты, копируется из node_modules при сборке"
+  }
+ ]
+}
